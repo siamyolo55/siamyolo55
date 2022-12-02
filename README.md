@@ -20,4 +20,9 @@
 <br/>
 
 ## Cyber Security 
-<script src="https://tryhackme.com/badge/1002630"></script>
+<div align="center">
+
+  ![https://tryhackme.com/p/siamyolo](https://tryhackme-badges.s3.amazonaws.com/siamyolo.png)
+
+</div>
+
