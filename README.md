@@ -21,7 +21,6 @@
 - ⚙️ Backend Engineering (.NET / Java / APIs)
 - 📊 Competitive Programmer (Codeforces: **siam_yolo**)
 - 🔐 Cybersecurity Enthusiast (TryHackMe)
-- 🎯 Currently preparing for top-tier engineering roles
 
 ---
 
@@ -43,6 +42,7 @@
 **DevOps**
 - Docker
 - Kubernetes
+- Azure
 
 ---
 
