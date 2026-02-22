@@ -42,24 +42,7 @@
 
 **DevOps**
 - Docker
-- GitHub Actions
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siamyolo55&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siamyolo55&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🏆 Competitive Programming
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=siam_yolo&theme=dark"/>
-</p>
+- Kubernetes
 
 ---
 
@@ -68,20 +51,6 @@
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/siamyolo.png" />
 </p>
-
----
-
-## 🚀 Highlight Projects
-
-### 🎵 Distributed Music Streaming API
-Scalable backend architecture for streaming workloads  
-Tech: Java, Spring Boot, Distributed Systems
-
-### 🧠 NeetCode-150 Progress Tracker
-Tracking algorithm mastery journey (C++ focused)
-
-### 🛒 WooCommerce Barcode Admin System
-Custom admin-only scanning system built with Docker
 
 ---
 
