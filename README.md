@@ -1,34 +1,90 @@
-## Github Stats
+<h1 align="center">Hi 👋, I'm Abrar Siam</h1>
+<h3 align="center">Software Engineer | Backend-Focused | Building Scalable Systems</h3>
 
-
-<summary><b>Profile Stats</b></summary>
-<br/>
-<p>
-  <a href="https://github.com/siamyolo55"><img align="center" src="https://github-readme-stats.vercel.app/api?username=siamyolo55&show_icons=true&locale=en&theme=react" alt="siamyolo55" height="192px"/></a>
-</p>
-It is what is is
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siamyolo55&show_icons=true&locale=en&layout=compact&theme=react" alt="siamyolo55" height="192px"/>
-</p>
-</p>
-
-<h3>Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/abrar-siam-74068b164/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abrar-siam-74068b164/">
+    <img src="https://img.shields.io/badge/LinkedIn-AbrarSiam-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://codeforces.com/profile/siam_yolo">
+    <img src="https://img.shields.io/badge/Codeforces-siam_yolo-orange?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://tryhackme.com/p/siamyolo">
+    <img src="https://img.shields.io/badge/TryHackMe-siamyolo-red?style=for-the-badge&logo=tryhackme" />
+  </a>
 </p>
 
-<br/>
+---
 
-<div align="center">
+## 🧠 About Me
 
-  ![https://codeforces.com/profile/siam_yolo](https://cp-logo.vercel.app/codeforces/siam_yolo)
+- 💻 4+ years building production systems
+- ⚙️ Backend Engineering (.NET / Java / APIs)
+- 📊 Competitive Programmer (Codeforces: **siam_yolo**)
+- 🔐 Cybersecurity Enthusiast (TryHackMe)
+- 🎯 Currently preparing for top-tier engineering roles
 
-</div>
+---
 
-## Cyber Security 
-<div align="center">
+## ⚡ Tech Stack
 
-  ![https://tryhackme.com/p/siamyolo](https://tryhackme-badges.s3.amazonaws.com/siamyolo.png)
+**Backend**
+- C# / .NET
+- Java / Spring Boot
+- Node.js
 
-</div>
+**Frontend**
+- React
+- Next.js
 
+**Database**
+- SQL Server
+- MongoDB
+
+**DevOps**
+- Docker
+- GitHub Actions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siamyolo55&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siamyolo55&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=siam_yolo&theme=dark"/>
+</p>
+
+---
+
+## 🔐 Cyber Security
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/siamyolo.png" />
+</p>
+
+---
+
+## 🚀 Highlight Projects
+
+### 🎵 Distributed Music Streaming API
+Scalable backend architecture for streaming workloads  
+Tech: Java, Spring Boot, Distributed Systems
+
+### 🧠 NeetCode-150 Progress Tracker
+Tracking algorithm mastery journey (C++ focused)
+
+### 🛒 WooCommerce Barcode Admin System
+Custom admin-only scanning system built with Docker
+
+---
+
+<p align="center">
+  ⚡ Building. Learning. Shipping.
+</p>
