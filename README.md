@@ -19,7 +19,6 @@
 
 - 💻 4+ years building production systems
 - ⚙️ Backend Engineering (.NET / Java / APIs)
-- 📊 Competitive Programmer (Codeforces: **siam_yolo**)
 - 🔐 Cybersecurity Enthusiast (TryHackMe)
 
 ---
